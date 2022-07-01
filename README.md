@@ -9,3 +9,5 @@ List of projects:
   -Description: Apply the foundational Python skills you learned in Introduction to Python and Intermediate Python by manipulating and visualizing movie and TV data.
 4. Streamlining Employee Data
   -Description: Use DataFrames to read and merge employee data from different sources.
+5. Exploring the NYC Airbnb Market
+  -Description: Apply data importing and cleaning skills to extract insights about the New York City Airbnb market.
