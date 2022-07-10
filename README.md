@@ -11,5 +11,5 @@ List of projects:
   -Description: Use DataFrames to read and merge employee data from different sources.
 5. Exploring the NYC Airbnb Market
   -Description: Apply data importing and cleaning skills to extract insights about the New York City Airbnb market.
-6.Word Frequency in Classic Novels
+6. Word Frequency in Classic Novels
   -Description: Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie.
