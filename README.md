@@ -13,3 +13,5 @@ List of projects:
   -Description: Apply data importing and cleaning skills to extract insights about the New York City Airbnb market.
 6. Word Frequency in Classic Novels
   -Description: Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie.
+7. Recreating John Snow's Ghost Map
+  -Description: Recreate John Snow's famous map of the 1854 cholera outbreak in London.
