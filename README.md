@@ -15,3 +15,5 @@ List of projects:
   -Description: Use web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie.
 7. Recreating John Snow's Ghost Map
   -Description: Recreate John Snow's famous map of the 1854 cholera outbreak in London.
+8. What and Where are the World's Oldest Businesses
+  -Description: Use joining techniques to discover the oldest businesses in the world.
